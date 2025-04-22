@@ -2,6 +2,10 @@
 
 A professional company website for Studio F8, a creative studio specializing in video production, motion graphics, and digital content creation.
 
+## Live Website
+
+Visit the live website: [https://evinhua.github.io/STUDIO-F8](https://evinhua.github.io/STUDIO-F8)
+
 ## Features
 
 - Modern, responsive design
