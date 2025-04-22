@@ -176,41 +176,48 @@ const Portfolio = () => {
   const projects = [
     {
       id: 1,
+      title: 'Cinematic Drone Footage',
+      category: 'documentary',
+      image: 'https://i3.ytimg.com/vi/2b_1IRlwNC0/maxresdefault.jpg',
+      videoId: '2b_1IRlwNC0'
+    },
+    {
+      id: 2,
       title: 'Brand Campaign',
       category: 'commercial',
       image: 'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
       videoId: 'dQw4w9WgXcQ' // Placeholder YouTube ID
     },
     {
-      id: 2,
+      id: 3,
       title: 'Product Launch',
       category: 'commercial',
       image: 'https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
       videoId: 'dQw4w9WgXcQ' // Placeholder YouTube ID
     },
     {
-      id: 3,
+      id: 4,
       title: 'Corporate Overview',
       category: 'corporate',
       image: 'https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
       videoId: 'dQw4w9WgXcQ' // Placeholder YouTube ID
     },
     {
-      id: 4,
+      id: 5,
       title: 'Motion Graphics Reel',
       category: 'animation',
       image: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
       videoId: 'dQw4w9WgXcQ' // Placeholder YouTube ID
     },
     {
-      id: 5,
+      id: 6,
       title: 'Documentary Short',
       category: 'documentary',
       image: 'https://images.unsplash.com/photo-1536240478700-b869070f9279?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
       videoId: 'dQw4w9WgXcQ' // Placeholder YouTube ID
     },
     {
-      id: 6,
+      id: 7,
       title: 'Event Highlights',
       category: 'corporate',
       image: 'https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
